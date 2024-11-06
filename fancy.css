@@ -37,6 +37,20 @@ h1{
     background-color: whitesmoke;
 }
 
+h2{
+    font-size: 35px;
+    color: whitesmoke;
+    font: Gill sans;
+    background-color: #7f51eb;
+}
+
+h3{
+    font-size: 35px;
+    color: #7f51eb;
+    font: Gill Sans;
+    text-align: left;
+}
+
 b{
     color: #7f51eb;
 }
@@ -76,13 +90,6 @@ li{
     font-family: Verdana;
     text-align: left;
     margin-right: 1em;
-}
-
-h2{
-    font-size: 35px;
-    color: whitesmoke;
-    font: Gill sans;
-    background-color: #7f51eb;
 }
 
 html{
