@@ -62,7 +62,7 @@ em{
 
 a{
     font-size: 35px;
-    color: rgb(200, 200, 200);
+    color: whitesmoke;
     font-family: Verdana;
     text-align: center;
     background-color: #7f51eb;
@@ -78,7 +78,7 @@ li{
 
 h2{
     font-size: 35px;
-    color: rgb(200, 200, 200);
+    color: whitesmoke;
     font: Gill sans;
     background-color: #7f51eb;
 }
