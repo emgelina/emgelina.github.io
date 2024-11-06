@@ -67,9 +67,13 @@ a{
     margin-right: 1em;
 }
 li{
-    font-size: 50px;
+    font-size: 24px;
     color: black;
     font-family: Verdana;
     text-align: left;
     margin-right: 1em;
+}
+
+h2{
+    font-size: 35px;
 }
