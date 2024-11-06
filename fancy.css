@@ -34,7 +34,7 @@ h1{
     font-family: Gill Sans;
     color: #7f51eb;
     text-align: center;
-    background-color: rgb(200, 200, 200);
+    background-color: whitesmoke;
 }
 
 b{
@@ -69,6 +69,7 @@ a{
     background-color: #7f51eb;
     margin-right: 1em;
 }
+
 li{
     font-size: 24px;
     color: rgb(200, 200, 200);
@@ -86,4 +87,9 @@ h2{
 
 html{
     background-color: rgb(50, 50, 50);
+}
+
+img{
+    height: 400px;
+    width: 400px;
 }
