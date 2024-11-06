@@ -47,7 +47,7 @@ i{
 p{
     font-size: 24px;
     font-family: Verdana;
-    color: rgb(205, 205, 205);
+    color: rgb(160, 160, 160);
 }
 
 strong{
@@ -62,7 +62,7 @@ em{
 
 a{
     font-size: 35px;
-    color: rgb(205, 205, 205);
+    color: rgb(160, 160, 160);
     font-family: Verdana;
     text-align: center;
     background-color: #7f51eb;
@@ -70,7 +70,7 @@ a{
 }
 li{
     font-size: 24px;
-    color: rgb(205, 205, 205);
+    color: rgb(160, 160, 160);
     font-family: Verdana;
     text-align: left;
     margin-right: 1em;
@@ -78,7 +78,7 @@ li{
 
 h2{
     font-size: 35px;
-    color: rgb(205, 205, 205);
+    color: rgb(160, 160, 160);
     font: Gill sans;
     background-color: #7f51eb;
 }
